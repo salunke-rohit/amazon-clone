@@ -1,3 +1,4 @@
 # AMAZON CLONE
 navbar complete .
-day 2 => create hero area of website 
+day 2 => create hero area of website .
+succesfuly uploded hero section .
