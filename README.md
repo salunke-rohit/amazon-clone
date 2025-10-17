@@ -1,2 +1,3 @@
 # AMAZON CLONE
-navbar complete 
+navbar complete .
+day 2 => create hero area of website 
